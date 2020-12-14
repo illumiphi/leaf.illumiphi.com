@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-export PROJECT=starter.photon-platform.net
+export PROJECT=leaf.illumiphi.com
 export LOCAL="http://$PROJECT.local"
 export SERVER="https://$PROJECT"
 export SERVER_DIR="~/SITES/$PROJECT"

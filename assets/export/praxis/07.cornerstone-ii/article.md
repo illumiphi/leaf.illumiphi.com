@@ -1,0 +1,22 @@
+---
+title: Cornerstone II
+---
+
+===
+
+[First page](text0.html) [Back](text6.html) [Continue](text8.html) [Last
+page](text12.html) [Overview](praxis-02-19-16.html) [Image](img7.html)
+
+  
+
+ {#section}
+
+***CORNERSTONE II***
+
+-   *PRAXIS IN COLABERATION WITH MICHEAL COOPER OF CITE DESIGN, CREATED
+    19 FOUR STORY / THREE FAMILY TOWNHOUSES ON A VACONT CITY BLOCK
+    LOCATED BETWEEN 118TH / 119TH STREETS AND MANHATTAN AVENUE /
+    FREDERICK DOUGLAS BLVD.*
+-   *THE TRADISIONALLY DESIGNED TOWNHOUES WERE ESTIMATED TO BE
+    CONSTRUCTED FOR $ 14,000,000*
+-   *DELEVOLER – CROSS CONSTRUCTION, INC.*

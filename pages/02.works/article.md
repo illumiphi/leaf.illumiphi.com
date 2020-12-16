@@ -9,6 +9,9 @@ content:
 taxonomy:
     photon: 
         - header
+        - showcase
+gallery:
+    show: true
 ---
 
 

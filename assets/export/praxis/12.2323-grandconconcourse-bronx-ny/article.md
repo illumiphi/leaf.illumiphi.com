@@ -1,0 +1,18 @@
+---
+title: 2323 GRANDCONCONCOURSE BRONX NY
+---
+
+===
+
+[First page](text0.html) [Back](text11.html) Continue Last page
+[Overview](praxis-02-19-16.html) [Image](img12.html)
+
+  
+
+ {#section}
+
+-   ***LOCATED AT 2323 GRANDCONCONCOURSE BRONX NY,** THIS PROPOSAL
+    CONSISTED OF 400 FULLY AUTOMATED PARKING SPACES*
+-   *THE ESTIMATED CONSTRUCTION COST IS APPROXIMATELY $ 21,000,000 .*
+
+***LGA AUTOMATED PARKING***

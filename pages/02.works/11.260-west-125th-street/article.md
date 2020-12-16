@@ -1,6 +1,6 @@
 ---
 title: 260 West 125th Street 
-subtitle: proposed retail and restuarant
+subtitle: proposed retail and restaurant
 ---
 
 -   LOCATED AT 260 WEST 125TH STREET

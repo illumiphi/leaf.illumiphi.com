@@ -4,25 +4,7 @@ title: Details
 
 ===
 
-[First page](text0.html) [Back](text0.html) [Continue](text2.html) [Last
-page](text10.html) [Overview](HPD-Pearl.html) [Image](img1.html)
-
-  
-
-THE PEARL {#the-pearl}
-=========
-
-PROJECT NAME: “*The Pearl”* {#project-name-the-pearl}
----------------------------
-
-In honor of the matriarch of the Benta family the name expresses an object found amongst a vast ocean that once open displays a rare beauty. In a city filled with thousands of buildings the goal is to replicate the attributes a Pearl and Pearl M. Benta poses. {#in-honor-of-the-matriarch-of-the-benta-family-the-name-expresses-an-object-found-amongst-a-vast-ocean-that-once-open-displays-a-rare-beauty.-in-a-city-filled-with-thousands-of-buildings-the-goal-is-to-replicate-the-attributes-a-pearl-and-pearl-m.-benta-poses.}
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  {#section}
--
-
-**TEAM** {#team}
---------
+# **TEAM** 
 
 -   Land Owner/ Developer: Jason Benta (OWJE Realty)
 -   General contractors: Borough Construction Group
@@ -30,7 +12,7 @@ In honor of the matriarch of the Benta family the name expresses an object found
 -   Development & Finance Consultant: Best Development Group LLC
 -   Legal: TBD (Nixon Peabody LLP or Hirschen Singer & Epstein LLP)
 
-**Location:**
+# **Location:**
 
 349 West 141st Street Harlem, NY 10030
 

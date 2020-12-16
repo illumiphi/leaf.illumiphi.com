@@ -1,19 +1,11 @@
 ---
-title: Building
+title: Features
 ---
 
 ===
 
-[First page](text0.html) [Back](text2.html) [Continue](text4.html) [Last
-page](text10.html) [Overview](HPD-Pearl.html) [Image](img3.html)
 
-  
-
-THE PEARL {#the-pearl}
-=========
-
-**BUILDING** {#building}
-------------
+## **BUILDING** 
 
 -   Light
 -   Timeless and elegant
@@ -29,7 +21,7 @@ THE PEARL {#the-pearl}
 -   Inclusive of mechanical systems
 -   Co- generation (look into)
 
- **ROOF**
+##  **ROOF**
 
 -   Passive Solar
 -   Green roof

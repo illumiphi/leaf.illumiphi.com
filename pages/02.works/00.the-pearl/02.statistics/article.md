@@ -1,91 +1,57 @@
 ---
-title: Statistics
+title: Zoning Calculations
 ---
 
 ===
 
-[First page](text0.html) [Back](text1.html) [Continue](text3.html) [Last
-page](text10.html) [Overview](HPD-Pearl.html) [Image](img2.html)
 
-  
+**ZONING CALCULATIONS:** 
 
-THE PEARL {#the-pearl}
-=========
+OCCUPANCY: J-2 
 
-**AS OF RIGHT:** {#as-of-right}
-----------------
+MIN LOT WIDTH 18’ 
 
-**ZONING CALCULATIONS:** {#zoning-calculations}
-------------------------
+EXISTING LOT WIDTH 35.17’ 
 
-OCCUPANCY: J-2 {#occupancy-j-2}
---------------
+MIN LOT AREA (ZR23-32) 1700 SF 
 
-MIN LOT WIDTH 18’ {#min-lot-width-18}
------------------
+EXISTING LOT AREA 
 
-EXIST’G LOT WIDTH 35.17’ {#existg-lot-width-35.17}
-------------------------
+33.17’ X 99.92’ = 3,514.2 SF 
 
-MIN LOT AREA (ZR23-32) 1700 SF {#min-lot-area-zr23-32-1700-sf}
-------------------------------
+MIN OPEN SPACE 17.5% 
 
-EXISTING LOT AREA {#existing-lot-area}
------------------
+MAX LOT COVERAGE (ZR23-145) 65% 
 
-33.17’ X 99.92’ = 3,514.2 SF {#x-99.92-3514.2-sf}
-----------------------------
+3,514 X 65% = 2,284 SF 
 
-MIN OPEN SPACE 17.5% {#min-open-space-17.5}
---------------------
+PROPOSED LOT COVERAGE 65% 
 
-MAX LOT COVERAGE (ZR23-145) 65% {#max-lot-coverage-zr23-145-65}
--------------------------------
+2,275 SF OK 
 
-3,514 X 65% = 2,284 SF {#x-65-2284-sf}
-----------------------
+MAX FAR: 3.44 (4 .0 Quality Housing) 
 
-PROPOSED LOT COVERAGE 65% {#proposed-lot-coverage-65}
--------------------------
+4 X 3,514.2 = 14,056.75 SF 
 
-2,275 SF OK {#sf-ok}
------------
+FLOOR AREA PROPOSED 13,987 SF 
 
-MAX FAR: 3.44 (4 .0 Quality Housing) {#max-far-3.44-4-.0-quality-housing}
-------------------------------------
+MAX BLDG. HEIGHT 80 FT 
 
-4 X 3,514.2 = 14,056.75 SF {#x-3514.2-14056.75-sf}
---------------------------
+PROP. BLDG HT 75 FT 
 
-FLOOR AREA PROPOSED 13,987 SF {#floor-area-proposed-13987-sf}
------------------------------
+REAR YARD REQUIRED (ZR23-145) 30’-0” 
 
-MAX BLDG. HEIGHT 80 FT {#max-bldg.-height-80-ft}
-----------------------
+REAR YARD PROPOSED 30’ 
 
-PROP. BLDG HT 75 FT {#prop.-bldg-ht-75-ft}
--------------------
+**DU FACTOR (ZR23-22) 680** 
 
-REAR YARD REQUIRED (ZR23-145) 30’-0” {#rear-yard-required-zr23-145-30-0}
-------------------------------------
+**MAX DUs 20.6 UNITS** 
 
-REAR YARD PROPOSED 30’ {#rear-yard-proposed-30}
-----------------------
+STREET TREE PLANTING (ZR28-12) 2 
 
-**DU FACTOR (ZR23-22) 680** {#du-factor-zr23-22-680}
----------------------------
+SIZE OF DWELLING UNITS (ZR28-21) 400 SF MINIMUM 
 
-**MAX DUs 20.6 UNITS** {#max-dus-20.6-units}
-----------------------
-
-STREET TREE PLANTING (ZR28-12) 2 {#street-tree-planting-zr28-12-2}
---------------------------------
-
-SIZE OF DWELLING UNITS (ZR28-21) 400 SF MINIMUM {#size-of-dwelling-units-zr28-21-400-sf-minimum}
------------------------------------------------
-
-PROPOSED 750 SF MINIMUM, SF+ TYPICAL {#proposed-750-sf-minimum-sf-typical}
-------------------------------------
+PROPOSED 750 SF MINIMUM, SF+ TYPICAL 
 
 **FLOOR AREA CALCULATIONS:**
 

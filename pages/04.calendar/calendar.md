@@ -7,7 +7,6 @@ content:
 taxonomy:
     photon:
         - header
-        - showcase
 ---
 
 - Here are all the things we are up to.

@@ -1,5 +1,6 @@
 ---
-title: 266 WEST  121TH STREET 
+title: 266 West 121th Street 
+subtitle: 3 Story Townhouse
 ---
 
 -   ***LOCATED AT 266 WEST 121TH STREET -*** 

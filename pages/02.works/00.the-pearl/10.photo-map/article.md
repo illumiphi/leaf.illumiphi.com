@@ -4,12 +4,7 @@ title: Photo Map
 
 ===
 
-[First page](text0.html) [Back](text9.html) Continue Last page
-[Overview](HPD-Pearl.html) [Image](img10.html)
-
-  
-
-1 {#section}
+1 
 =
 
 4
@@ -20,4 +15,3 @@ title: Photo Map
 
 2
 
-Photo Map

@@ -4,13 +4,6 @@ title: Unit Matrix
 
 ===
 
-[First page](text0.html) [Back](text3.html) [Continue](text5.html) [Last
-page](text10.html) [Overview](HPD-Pearl.html) [Image](img4.html)
-
-  
-
-Unit Matrix {#unit-matrix}
-===========
 
 |     |                           |        |                    |        |                      |                    |        |         |             |             |     |
 |-----|---------------------------|--------|--------------------|--------|----------------------|--------------------|--------|---------|-------------|-------------|-----|

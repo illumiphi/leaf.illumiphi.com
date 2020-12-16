@@ -7,7 +7,6 @@ content:
 taxonomy:
     photon:
         - header
-        - showcase
 ---
 
 - Latest news

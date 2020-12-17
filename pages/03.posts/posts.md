@@ -9,6 +9,6 @@ taxonomy:
         - header
 ---
 
-- Latest news
+Stay Tuned
 
 ===

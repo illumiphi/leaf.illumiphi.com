@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<root ptr="0x55a677dbb6f0" id="0" symbol="11SwRootFrame" lower="1">
+ <sfxViewShells>
+  <SwView>
+   <SfxViewShell ptr="0x55a677b5d930" id="0"/>
+   <SwCursorShell>
+    <SwViewShell/>
+    <m_pCurrentCursor>
+     <SwPaM>
+      <point>
+       <SwPosition nNode="7" nContent="0"/>
+      </point>
+     </SwPaM>
+    </m_pCurrentCursor>
+   </SwCursorShell>
+  </SwView>
+ </sfxViewShells>
+ <infos>
+  <bounds left="284" top="284" width="12849" height="15840" bottom="16123" right="13132" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+  <prtBounds left="0" top="0" width="12849" height="15840" bottom="15839" right="12848"/>
+ </infos>
+ <page ptr="0x55a677dcba90" id="1" symbol="11SwPageFrame" upper="0" lower="3">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <page_info phyNum="1" virtNum="1" pageDesc="Default Page Style"/>
+  <infos>
+   <bounds left="893" top="284" width="12240" height="15840" bottom="16123" right="13132" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1440" top="720" width="9360" height="14400" bottom="15119" right="10799"/>
+  </infos>
+  <header ptr="0x55a677dc48c0" id="3" symbol="13SwHeaderFrame" next="2" upper="1" lower="4" fmtName="Right header" fmtPtr="0x55a677d4e570">
+   <infos>
+    <bounds left="2333" top="1004" width="9360" height="2039" bottom="3042" right="11692" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9360" height="2039" bottom="2038" right="9359"/>
+   </infos>
+   <txt ptr="0x55a677d47d80" id="4" symbol="11SwTextFrame" next="5" upper="3" txtNodeIndex="6" WritingMode="Horizontal">
+    <infos>
+     <bounds left="2333" top="1004" width="9360" height="256" bottom="1259" right="11692" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9360" height="256" bottom="255" right="9359"/>
+    </infos>
+    <anchored>
+     <SwAnchoredDrawObject ptr="0x55a677de7b40">
+      <bounds left="6506" top="634" width="1015" height="1112" bottom="1745" right="7520"/>
+      <SdrObject ptr="0x55a677d18650" symbol="10SdrGrafObj" name="Picture 1" title="" description="C:\Users\Mark Warren\Pictures\4121488 (1).jpg" nOrdNum="0" aOutRect="6506, 634, 1014, 1111">
+       <DefaultProperties>
+        <BaseProperties/>
+        <SfxItemSet>
+         <SfxPoolItem whichId="1000" typeName="14XLineStyleItem" presentation="None"/>
+         <SfxInt32Item whichId="1002" value="0"/>
+         <XFillStyleItem whichId="1014" value="0" presentation="None"/>
+         <SfxBoolItem whichId="1047" value="on"/>
+         <NameOrIndex whichId="1048" isIndex="false" name="" index="-1"/>
+         <SfxInt32Item whichId="1049" value="155"/>
+         <SfxInt32Item whichId="1050" value="155"/>
+         <SfxUInt16Item whichId="1051" value="35"/>
+         <SfxInt32Item whichId="1054" value="56693"/>
+         <SfxInt32Item whichId="1055" value="56693"/>
+         <SfxBoolItem whichId="1068" value="off"/>
+         <SfxInt32Item whichId="1070" value="142"/>
+         <SfxInt32Item whichId="1071" value="142"/>
+         <SfxInt32Item whichId="1072" value="71"/>
+         <SfxInt32Item whichId="1073" value="71"/>
+         <SdrTextVertAdjustItem whichId="1074" value="0"/>
+         <SfxPoolItem whichId="1079" typeName="21SdrTextHorzAdjustItem" presentation="Horizontal text anchor Center"/>
+         <SfxBoolItem whichId="1090" value="on"/>
+         <SfxPoolItem whichId="1163" typeName="14SdrGrafRedItem" presentation="Red 0%"/>
+         <SfxPoolItem whichId="1164" typeName="16SdrGrafGreenItem" presentation="Green 0%"/>
+         <SfxPoolItem whichId="1165" typeName="15SdrGrafBlueItem" presentation="Blue 0%"/>
+         <SfxPoolItem whichId="1166" typeName="20SdrGrafLuminanceItem" presentation="Brightness 0%"/>
+         <SfxPoolItem whichId="1167" typeName="19SdrGrafContrastItem" presentation="Contrast 0%"/>
+         <SfxUInt32Item whichId="1168" value="100"/>
+         <SfxUInt16Item whichId="1169" value="0"/>
+         <SfxBoolItem whichId="1170" value="off"/>
+         <SfxPoolItem whichId="1171" typeName="15SdrGrafModeItem" presentation="Image mode Standard"/>
+         <SfxPoolItem whichId="1172" typeName="15SdrGrafCropItem" presentation="L: 2.38 R: 2.41 T: 4.16 B: 6.19"/>
+         <SfxPoolItem whichId="4021" typeName="13SvxAdjustItem" presentation="Align left"/>
+         <SvxFontHeightItem whichId="4027" height="360" prop="100" propUnit="13"/>
+        </SfxItemSet>
+       </DefaultProperties>
+      </SdrObject>
+     </SwAnchoredDrawObject>
+    </anchored>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4680"/>
+    <Text nLength="0" nType="PortionType::Text" nHeight="256"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4681"/>
+    <LineBreak nWidth="9361"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55a677d485c0" id="5" symbol="11SwTextFrame" next="6" prev="4" upper="3" txtNodeIndex="7" WritingMode="Horizontal">
+    <infos>
+     <bounds left="2333" top="1260" width="9360" height="256" bottom="1515" right="11692" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9360" height="256" bottom="255" right="9359"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4680"/>
+    <Text nLength="0" nType="PortionType::Text" nHeight="256"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4681"/>
+    <LineBreak nWidth="9361"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55a677d487d0" id="6" symbol="11SwTextFrame" next="7" prev="5" upper="3" txtNodeIndex="8" WritingMode="Horizontal">
+    <infos>
+     <bounds left="2333" top="1516" width="9360" height="256" bottom="1771" right="11692" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9360" height="256" bottom="255" right="9359"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4680"/>
+    <Text nLength="0" nType="PortionType::Text" nHeight="256"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4681"/>
+    <LineBreak nWidth="9361"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55a677dc6940" id="7" symbol="11SwTextFrame" next="8" prev="6" upper="3" txtNodeIndex="9" WritingMode="Horizontal">
+    <infos>
+     <bounds left="2333" top="1772" width="9360" height="256" bottom="2027" right="11692" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9360" height="256" bottom="255" right="9359"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4680"/>
+    <Text nLength="0" nType="PortionType::Text" nHeight="256"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4681"/>
+    <LineBreak nWidth="9361"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55a677dc6aa0" id="8" symbol="11SwTextFrame" next="9" prev="7" upper="3" txtNodeIndex="10" WritingMode="Horizontal">
+    <infos>
+     <bounds left="2333" top="2028" width="9360" height="232" bottom="2259" right="11692" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9360" height="232" bottom="231" right="9359"/>
+    </infos>
+LEAF ARCHITECTURE    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3074"/>
+    <Text nLength="17" nType="PortionType::Text" nHeight="232" nWidth="3213" Portion="LEAF ARCHITECTURE"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3074"/>
+    <LineBreak nWidth="9361" Line="LEAF ARCHITECTURE"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55a677dcc030" id="9" symbol="11SwTextFrame" next="10" prev="8" upper="3" txtNodeIndex="11" WritingMode="Horizontal">
+    <infos>
+     <bounds left="2333" top="2260" width="9360" height="174" bottom="2433" right="11692" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9360" height="174" bottom="173" right="9359"/>
+    </infos>
+MARK A. WARREN, RA    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3221"/>
+    <Text nLength="18" nType="PortionType::Text" nHeight="174" nWidth="2919" Portion="MARK A. WARREN, RA"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3221"/>
+    <LineBreak nWidth="9361" Line="MARK A. WARREN, RA"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55a677dcc190" id="10" symbol="11SwTextFrame" next="11" prev="9" upper="3" txtNodeIndex="12" WritingMode="Horizontal">
+    <infos>
+     <bounds left="2333" top="2434" width="9360" height="203" bottom="2636" right="11692" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9360" height="203" bottom="202" right="9359"/>
+    </infos>
+914-755-6960 – idcnyo@aol.com    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3624"/>
+    <Text nLength="15" nType="PortionType::Text" nHeight="203" nWidth="1011" Portion="914-755-6960 &#x2013; "/>
+    <Text nLength="14" nType="PortionType::Text" nHeight="203" nWidth="1101" Portion="idcnyo@aol.com"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3625"/>
+    <LineBreak nWidth="9361" Line="914-755-6960 &#x2013; idcnyo@aol.com"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55a677dcc2f0" id="11" symbol="11SwTextFrame" next="12" prev="10" upper="3" txtNodeIndex="13" WritingMode="Horizontal">
+    <infos>
+     <bounds left="2333" top="2637" width="9360" height="203" bottom="2839" right="11692" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9360" height="203" bottom="202" right="9359"/>
+    </infos>
+OLD TURNS NEW    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4129"/>
+    <Text nLength="13" nType="PortionType::Text" nHeight="203" nWidth="1103" Portion="OLD TURNS NEW"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4129"/>
+    <LineBreak nWidth="9361" Line="OLD TURNS NEW"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55a677dcc450" id="12" symbol="11SwTextFrame" prev="11" upper="3" txtNodeIndex="14" WritingMode="Horizontal">
+    <infos>
+     <bounds left="2333" top="2840" width="9360" height="203" bottom="3042" right="11692" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9360" height="203" bottom="202" right="9359"/>
+    </infos>
+NEW TURNS TIMELESS    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3943"/>
+    <Text nLength="18" nType="PortionType::Text" nHeight="203" nWidth="1474" Portion="NEW TURNS TIMELESS"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3944"/>
+    <LineBreak nWidth="9361" Line="NEW TURNS TIMELESS"/>
+    <Finish/>
+   </txt>
+  </header>
+  <body ptr="0x55a677dbbb50" id="2" symbol="11SwBodyFrame" next="13" prev="3" upper="1" lower="17">
+   <infos>
+    <bounds left="2333" top="3043" width="9360" height="11569" bottom="14611" right="11692" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9360" height="11569" bottom="11568" right="9359"/>
+   </infos>
+   <txt ptr="0x55a677dcdab0" id="17" symbol="11SwTextFrame" next="18" upper="2" txtNodeIndex="25" WritingMode="Horizontal">
+    <infos>
+     <bounds left="2333" top="3043" width="9360" height="256" bottom="3298" right="11692" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9360" height="256" bottom="255" right="9359"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4680"/>
+    <Text nLength="0" nType="PortionType::Text" nHeight="256"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4681"/>
+    <LineBreak nWidth="9361"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55a67808e4f0" id="18" symbol="11SwTextFrame" next="19" prev="17" upper="2" txtNodeIndex="26" WritingMode="Horizontal">
+    <infos>
+     <bounds left="2333" top="3299" width="9360" height="256" bottom="3554" right="11692" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9360" height="256" bottom="255" right="9359"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55a67808e610" id="19" symbol="11SwTextFrame" next="20" prev="18" upper="2" txtNodeIndex="27" WritingMode="Horizontal">
+    <infos>
+     <bounds left="2333" top="3555" width="9360" height="436" bottom="3990" right="11692" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9360" height="256" bottom="435" right="9359"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="2353"/>
+    <Text nLength="18" nType="PortionType::Text" nHeight="256" nWidth="4655" Portion="&#xF04C;&#xF045;&#xF041;&#xF046;&#xF020;&#xF041;&#xF052;&#xF043;&#xF048;&#xF049;&#xF054;&#xF045;&#xF043;&#xF054;&#xF055;&#xF052;&#xF045;&#xF03A;"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="2353"/>
+    <LineBreak nWidth="9361" Line="&#xF04C;&#xF045;&#xF041;&#xF046;&#xF020;&#xF041;&#xF052;&#xF043;&#xF048;&#xF049;&#xF054;&#xF045;&#xF043;&#xF054;&#xF055;&#xF052;&#xF045;&#xF03A;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55a67808e730" id="20" symbol="11SwTextFrame" next="21" prev="19" upper="2" txtNodeIndex="28" WritingMode="Horizontal">
+    <infos>
+     <bounds left="2333" top="3991" width="9360" height="732" bottom="4722" right="11692" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9360" height="552" bottom="731" right="9359"/>
+    </infos>
+The architectural firm engages in full architectural service. The name, LEAF ARCHITECTURE, is an outgrowth of new beginnings.     <Text nLength="90" nType="PortionType::Text" nHeight="276" nWidth="9317" Portion="The architectural firm engages in full architectural service. The name, LEAF ARCHITECTURE,"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="9317" Line="The architectural firm engages in full architectural service. The name, LEAF ARCHITECTURE, "/>
+    <Text nLength="35" nType="PortionType::Lay" nHeight="276" nWidth="3446" Portion="is an outgrowth of new beginnings. "/>
+    <LineBreak nWidth="3446" Line="is an outgrowth of new beginnings. "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55a67808e850" id="21" symbol="11SwTextFrame" next="22" prev="20" upper="2" txtNodeIndex="29" WritingMode="Horizontal">
+    <infos>
+     <bounds left="2333" top="4723" width="9360" height="276" bottom="4998" right="11692" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9360" height="276" bottom="275" right="9359"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55a67808e970" id="22" symbol="11SwTextFrame" next="23" prev="21" upper="2" txtNodeIndex="30" WritingMode="Horizontal">
+    <infos>
+     <bounds left="2333" top="4999" width="9360" height="1104" bottom="6102" right="11692" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9360" height="1104" bottom="1103" right="9359"/>
+    </infos>
+The Ginkgo tree (LEAF) is a phenomenon, an object of veneration, a sacred tree of the East, a symbol of unity of opposites, by some seen as a symbol of changelessness, possessing miraculous power, bearer of hope and of the immeasurable past, a symbol of love. Because of all its properties it is associated with longevity.    <Text nLength="22" nType="PortionType::Text" nHeight="276" nWidth="2393" Portion="The Ginkgo tree (LEAF)"/>
+    <Special nLength="1" nType="PortionType::Blank" rText="&#xA0;"/>
+    <Text nLength="51" nType="PortionType::Text" nHeight="276" nWidth="4911" Portion="is a phenomenon, an object of veneration, a sacred "/>
+    <Text nLength="4" nType="PortionType::Text" nHeight="276" nWidth="360" Portion="tree"/>
+    <Special nLength="1" nType="PortionType::Blank" rText="&#xA0;"/>
+    <Text nLength="13" nType="PortionType::Text" nHeight="276" nWidth="1146" Portion="of the East, "/>
+    <LineBreak nWidth="8930" Line="The Ginkgo tree (LEAF)&#xA0;is a phenomenon, an object of veneration, a sacred tree&#xA0;of the East, "/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="276" nWidth="107" Portion="a"/>
+    <Special nLength="1" nType="PortionType::Blank" rText="&#xA0;"/>
+    <Text nLength="6" nType="PortionType::Text" nHeight="276" nWidth="707" Portion="symbol"/>
+    <Special nLength="1" nType="PortionType::Blank" rText="&#xA0;"/>
+    <Text nLength="41" nType="PortionType::Text" nHeight="276" nWidth="3879" Portion="of unity of opposites, by some seen as a "/>
+    <Text nLength="6" nType="PortionType::Text" nHeight="276" nWidth="707" Portion="symbol"/>
+    <Special nLength="1" nType="PortionType::Blank" rText="&#xA0;"/>
+    <Text nLength="30" nType="PortionType::Text" nHeight="276" nWidth="2919" Portion="of changelessness, possessing "/>
+    <LineBreak nWidth="8499" Line="a&#xA0;symbol&#xA0;of unity of opposites, by some seen as a symbol&#xA0;of changelessness, possessing "/>
+    <Text nLength="64" nType="PortionType::Text" nHeight="276" nWidth="6331" Portion="miraculous power, bearer of hope and of the immeasurable past, a"/>
+    <Special nLength="1" nType="PortionType::Blank" rText="&#xA0;"/>
+    <Text nLength="6" nType="PortionType::Text" nHeight="276" nWidth="707" Portion="symbol"/>
+    <Special nLength="1" nType="PortionType::Blank" rText="&#xA0;"/>
+    <Text nLength="23" nType="PortionType::Text" nHeight="276" nWidth="2152" Portion="of love. Because of all"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="9310" Line="miraculous power, bearer of hope and of the immeasurable past, a&#xA0;symbol&#xA0;of love. Because of all "/>
+    <Text nLength="29" nType="PortionType::Text" nHeight="276" nWidth="2479" Portion="its properties it is associat"/>
+    <Special nLength="0" nType="PortionType::Bookmark" rText="" nHeight="276"/>
+    <Text nLength="18" nType="PortionType::Text" nHeight="276" nWidth="1740" Portion="ed with longevity."/>
+    <LineBreak nWidth="4219" Line="its properties it is associated with longevity."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55a67808ea90" id="23" symbol="11SwTextFrame" next="24" prev="22" upper="2" txtNodeIndex="31" WritingMode="Horizontal">
+    <infos>
+     <bounds left="2333" top="6103" width="9360" height="256" bottom="6358" right="11692" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9360" height="256" bottom="255" right="9359"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4680"/>
+    <Text nLength="0" nType="PortionType::Text" nHeight="256"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4681"/>
+    <LineBreak nWidth="9361"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55a67808ebf0" id="24" symbol="11SwTextFrame" prev="23" upper="2" txtNodeIndex="32" WritingMode="Horizontal">
+    <infos>
+     <bounds left="2333" top="6359" width="9360" height="256" bottom="6614" right="11692" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9360" height="256" bottom="255" right="9359"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4680"/>
+    <Text nLength="0" nType="PortionType::Text" nHeight="256"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4681"/>
+    <LineBreak nWidth="9361"/>
+    <Finish/>
+   </txt>
+  </body>
+  <footer ptr="0x55a677dcc5b0" id="13" symbol="13SwFooterFrame" prev="2" upper="1" lower="14" fmtName="Right footer" fmtPtr="0x55a677dd4b00">
+   <infos>
+    <bounds left="2333" top="14612" width="9360" height="792" bottom="15403" right="11692" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9360" height="792" bottom="791" right="9359"/>
+   </infos>
+   <txt ptr="0x55a677dcc6d0" id="14" symbol="11SwTextFrame" next="15" upper="13" txtNodeIndex="17" WritingMode="Horizontal">
+    <infos>
+     <bounds left="2333" top="14612" width="9360" height="193" bottom="14804" right="11692" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="30" width="9360" height="163" bottom="192" right="9359"/>
+    </infos>
+173 SOMERSTOWN ROAD     <Text nLength="20" nType="PortionType::Para" nHeight="163" nWidth="1801" Portion="173 SOMERSTOWN ROAD "/>
+    <LineBreak nWidth="1801" Line="173 SOMERSTOWN ROAD "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55a677dcc830" id="15" symbol="11SwTextFrame" next="16" prev="14" upper="13" txtNodeIndex="18" WritingMode="Horizontal">
+    <infos>
+     <bounds left="2333" top="14805" width="9360" height="163" bottom="14967" right="11692" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9360" height="163" bottom="162" right="9359"/>
+    </infos>
+OSSINING NEW YORK 10562    <Text nLength="23" nType="PortionType::Para" nHeight="163" nWidth="1983" Portion="OSSINING NEW YORK 10562"/>
+    <LineBreak nWidth="1983" Line="OSSINING NEW YORK 10562"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55a677dcc990" id="16" symbol="11SwTextFrame" prev="15" upper="13" txtNodeIndex="19" WritingMode="Horizontal">
+    <infos>
+     <bounds left="2333" top="14968" width="9360" height="436" bottom="15403" right="11692" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9360" height="256" bottom="255" right="9359"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </footer>
+ </page>
+</root>

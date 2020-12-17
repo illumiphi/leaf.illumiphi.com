@@ -1,13 +1,22 @@
-name: photon
-contact: "**SHINE**\r\n\r\n**YOUR**\r\n\r\n**LIGHT**"
-facebook: phiarchitect
-twitter: phi_architect
-linkedin: phiarchitect
-youtube: UCYzRQS16EBmsbKuyKMFHSFQ
-github: photon-platform
+name: LEAF architecture
+motto: "OLD TURNS NEW<br>NEW TURNS TIMELESS"
+logo: leaf-logo.png
+telephone: 914-755-6960
+address:
+  # streetAddress:  '365 Port St # A'
+  addressLocality: New York
+  addressRegion: New York
+  # addressCountry: US
+  # postalCode: '97394'
+
+# facebook: phiarchitect
+# twitter: phi_architect
+# linkedin: phiarchitect
+# youtube: UCYzRQS16EBmsbKuyKMFHSFQ
+# github: photon-platform
 owa:
-  siteId: d1039be9b72f9820624ec26ad1c2722a
-  trackPageView: true
-  trackCLicks: false
-  trackDomStream: false
+  # siteId: d1039be9b72f9820624ec26ad1c2722a
+  # trackPageView: true
+  # trackCLicks: false
+  # trackDomStream: false
 google_search: 

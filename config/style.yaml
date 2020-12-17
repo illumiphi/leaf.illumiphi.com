@@ -1,11 +1,11 @@
 color:
   key:
-    hue: 44
+    hue: 110
   1:
     hueOffset: -120
   2:
     hueOffset: 180
-  saturation: 44
+  saturation: 22
   lightness:
     lighter: 75
     light: 66
@@ -14,8 +14,8 @@ color:
     darker: 19
   foreground: '#333'
   background: 'hsla(255,100%,100%,.5)'
-font: Montserrat
-font_display: Lato
+font: Fira+Sans+Condensed
+font_display: Fira+Sans+Condensed
 font_code: monospace
 header_height: 10em
 fitz: .5em
